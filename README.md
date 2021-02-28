@@ -4,7 +4,7 @@
 The database consists of 6 tables imported from CSV files. The four tables `Employees`, `Salaries`, `Titles`, and `Departments` all have unique primary keys. The `Employees` table has a foreign key `emp_title_id ` from the `Titles` table column `title_id`. There are 2 junction tables `Department_Manager` and `Department_Employee`.
 
 
-![ERD](https://raw.githubusercontent.com/Crazyspaceman-hd/sql-challenge/main/SQL_ERD.PNG)
+![ERD](https://raw.githubusercontent.com/Crazyspaceman-hd/sql-challenge/main/images/SQL_ERD.PNG)
 
 
 
@@ -45,5 +45,5 @@ Running my own employee number through the system using:
 
 Produces the following output:
 
-![emp_no](https://raw.githubusercontent.com/Crazyspaceman-hd/sql-challenge/main/emp_no.PNG)
+![emp_no](https://raw.githubusercontent.com/Crazyspaceman-hd/sql-challenge/main/images/emp_no.PNG)
 ## ***Very amusing.***
