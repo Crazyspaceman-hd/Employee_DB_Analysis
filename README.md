@@ -45,5 +45,5 @@ Running my own employee number through the system using:
 
 Produces the following output:
 
-![emp_no](https://raw.githubusercontent.com/Crazyspaceman-hd/sql-challenge/main/emp_no.png)
+![emp_no](https://raw.githubusercontent.com/Crazyspaceman-hd/sql-challenge/main/emp_no.PNG)
 ## ***Very amusing.***
