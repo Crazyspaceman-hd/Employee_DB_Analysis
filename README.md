@@ -9,7 +9,6 @@ The database consists of 6 tables imported from CSV files. The four tables `Empl
 
 
 ## Data Analysis
-___
 ### List the following details of each employee: employee number, last name, first name, sex, and salary.
 This query selects out the requested columns from `Employees` and `Salaries` and then joins the 2 tables on `emp_no`.
 ___
