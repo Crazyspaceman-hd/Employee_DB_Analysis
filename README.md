@@ -16,7 +16,7 @@ ___
 This query selects out the requested columns from `Employees` and uses the `%1986` wildcard to only output employees where the `hire_date` column ends in 1986.
 ___
 ### List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
-This query makes us of the junction table `Department_Manager`. The requested columns are selected from `Employees` and `Departments`, `Employees` is then joined with `Department_Manager` on `emp_no` and `Departments` is then joined with `Department_Manger` on `dept_no`.
+This query makes use of the junction table `Department_Manager`. The requested columns are selected from `Employees` and `Departments`, `Employees` is then joined with `Department_Manager` on `emp_no` and `Departments` is then joined with `Department_Manger` on `dept_no`.
 ___
 ### List the department of each employee with the following information: employee number, last name, first name, and department name.
 Similar to the previous query this makes use of a junction table, this time `Department_Employee`. The requested columns are selected from `Employees` and `Departments`, `Employees` is then joined with `Department_Employee` on `emp_no` and `Departments` is then joined with `Department_Employee` on `dept_no`.
